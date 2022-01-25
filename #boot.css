@@ -1,0 +1,10 @@
+.mynav{
+    background-color: darkviolet;
+}
+.mb-3{
+    width: 50%;
+    transform: translate(50%,50%);
+}
+input[type=file]{
+    background-color: aqua;
+}
